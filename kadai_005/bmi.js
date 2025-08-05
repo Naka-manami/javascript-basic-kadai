@@ -11,5 +11,4 @@ function getInputValue(bmi) {
 // 合計を計算する関数
 function calculateSum(weight, height) {
   console.log(weight / (height * height))
-  return weight / (height * height);
 }
